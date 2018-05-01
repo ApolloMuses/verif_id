@@ -3,11 +3,14 @@
 
 This is a simple CRUD app that utilizes the Bluzelle's decentralized database. 
 
-You can try it out here:
+
+### Try it out
+You can try it out here: 
 
 The following tools were used:
 1. [Bluezelle's js library](https://github.com/bluzelle/swarmclient-js)
 
+Documentation: https://bluzelle.github.io/api/#create
 
 
 ### What it looks like
@@ -16,9 +19,7 @@ The following tools were used:
 	<img src="./screenshots/ss.mov"/>
 </p>
 
-[Check it out here in production.](https://translink-79b18.firebaseapp.com/)
-
-### Try it out
+[Check it out here on Expo:](https://expo.io/@kh42/verif_id)
 
 Clone or download the repository and run:
 ```ruby
