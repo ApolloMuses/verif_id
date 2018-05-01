@@ -16,7 +16,7 @@ Documentation: https://bluzelle.github.io/api/#create
 ### What it looks like
 
 <p align="center">
-	<img src="./screenshots/ss.gif" width="300" height="700"/>
+	<img src="./screenshots/ss.gif" width="300" height="600"/>
 </p>
 
 [Check it out here on Expo:](https://expo.io/@kh42/verif_id)
