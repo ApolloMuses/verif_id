@@ -13,7 +13,7 @@ The following tools were used:
 ### What it looks like
 
 <p align="center">
-	<img src="./screenshots/ss.png"/>
+	<img src="./screenshots/ss.mov"/>
 </p>
 
 [Check it out here in production.](https://translink-79b18.firebaseapp.com/)
