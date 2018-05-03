@@ -5,7 +5,7 @@ This is a simple CRUD app that utilizes the Bluzelle's decentralized database.
 
 
 ### Try it out
-You can try it out here: 
+[Check it out here on Expo:](https://expo.io/@kh42/verif_id)
 
 The following tools were used:
 1. [Bluezelle's js library](https://github.com/bluzelle/swarmclient-js)
@@ -19,7 +19,7 @@ Documentation: https://bluzelle.github.io/api/#create
 	<img src="./screenshots/ss.gif" width="300" height="600"/>
 </p>
 
-[Check it out here on Expo:](https://expo.io/@kh42/verif_id)
+
 
 Clone or download the repository and run:
 ```ruby
